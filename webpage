@@ -1,0 +1,306 @@
+//html_code
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    <link rel="stylesheet" href="./Style.css">
+   
+</head>
+<body>
+    <navbar1 class="icons">
+        <div class="icn1">
+            <i class="fa-solid fa-phone">336.904.0448    </i>
+            <i class="fa-regular fa-envelope">  info@x-factores.com</i>
+        </div>
+        <div class="icn2">
+            <i class="fa-brands fa-square-facebook"></i>
+            <i class="fa-brands fa-instagram"></i>
+            <i class="fa-brands fa-linkedin"></i>
+            <i class="fa-brands fa-twitter"></i>
+        </div>
+    </navbar1>
+    <nav>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6cgY-y2fd__xwBcxxC1MDCgc9pKmO4Pm7YA&usqp=CAU" alt="img1" height="30px" width="200px">
+        <div class="menublock">
+            <ul>
+                <li class="l1">
+                    <h5>Home</h5>
+                </li>
+                
+                <li>
+                    <h5> About Us</h5>
+                </li>
+                <li>
+                    <h5> Service</h5>
+                </li>
+                <li>
+                    <h5> FAQ</h5>
+                </li>
+                <li>
+                    <h5> Testimonials</h5>
+                </li>
+                <li>
+                    <h5> Carrers</h5>
+                </li>
+                <li>
+                    <h5> Contact Us</h5>
+                </li>
+                <li class="list1">
+                    <h5> Get A Quote</h5>
+                </li>
+            </ul>
+        </div>
+    </nav>
+<div class="contentOnImg">
+    <h1 class="bg_img_h1">Hero Heading 1 </h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+        Architecto minus<br> maxime, possimus sunt, ducimus necessit
+        atibusdelectus aspernatur vitae sint <br> similique deleniti 
+        nulla minima sequi, nihil maiores veritatis libero ullam
+         aliquid.</p>
+    <button class="btn1">Learn More</button>
+    <button >Contact Us</button>
+</div>
+<navbar2>
+    <div class="menublock1">
+    <h4>link1</h4>
+    <h4>link2</h4>
+    <h4>link3</h4>
+    <h4>link4</h4>
+</div>
+</navbar2>
+<br>
+<hr>
+<br>
+<br>
+<hr class="hori">
+<br>
+<br>
+<hr>
+<br>
+
+<h1 class="h11">Link 1 Heading</h1>
+
+<section class="sect">
+    <div class="container">
+        <div class="boxitems">
+            <p>
+                <h2>Small Medium Text Goes Here</h2>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore quae impedit quisquam asperiores. Error minus, cupiditate, aspernatur praesentium accusamus molestiae suscipit veritatis, consequuntur dicta commodi quisquam ullam consequatur. Consequatur, exercitationem.</p>
+        </div>
+        <div class="boxitems">
+            <p>
+                <h2>Small Medium Text Goes Here</h2>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed, unde nulla nobis atque, vero laboriosam impedit perspiciatis, molestias distinctio eius quae! Quidem exercitationem ad, et architecto odit rerum culpa enim?</p>
+        </div>
+        <div class="boxitems">
+            <p>
+                <h2>Small Medium Text Goes Here</h2>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed, unde nulla nobis atque, vero laboriosam impedit perspiciatis, molestias distinctio eius quae! Quidem exercitationem ad, et architecto odit rerum culpa enim?</p>
+        </div>
+    </div>
+    <div class="container">
+        <div class="boxitems">
+            <p>
+                <h2>Small Medium Text Goes Here</h2>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore quae impedit quisquam asperiores. Error minus, cupiditate, aspernatur praesentium accusamus molestiae suscipit veritatis, consequuntur dicta commodi quisquam ullam consequatur. Consequatur, exercitationem.</p>
+        </div>
+        <div class="boxitems">
+            <p>
+                <h2>Small Medium Text Goes Here</h2>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed, unde nulla nobis atque, vero laboriosam impedit perspiciatis, molestias distinctio eius quae! Quidem exercitationem ad, et architecto odit rerum culpa enim?</p>
+        </div>
+        <div class="boxitems">
+            <p>
+                <h2>Small Medium Text Goes Here</h2>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed, unde nulla nobis atque, vero laboriosam impedit perspiciatis, molestias distinctio eius quae! Quidem exercitationem ad, et architecto odit rerum culpa enim?</p>
+        </div>
+    </div>
+</section>
+<br>
+<hr>
+<br>
+<br>
+<hr class="hori">
+<br>
+<br>
+<hr>
+<br>
+<div>
+<div class="h12" >
+    <h1>Link 2 Heading</h1>
+    <br><br>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Culpa, ipsam ullam? Error ut sequi beatae ipsum reiciendis alias soluta porro totam nesciunt earum sed commodi accusamus suscipit voluptate, quibusdam saepe.</p>
+</div>
+<br><br>
+
+<div class="pos_centre">
+    <img src="" alt="" height="200px" width="200px">
+    <h3>Small Medium Text Goes Here</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum odit earum laborum labore animi? Maxime culpa corrupti suscipit distinctio! Fugit, ut voluptatum eligendi molestias illo eum veniam aspernatur ipsum asperiores.</p>
+    <br>
+    
+    <img src="" alt="" height="200px" width="200px">
+    <h3>Small Medium Text Goes Here</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum odit earum laborum labore animi? Maxime culpa corrupti suscipit distinctio! Fugit, ut voluptatum eligendi molestias illo eum veniam aspernatur ipsum asperiores.</p>
+
+    <br>
+    <img src="" alt="" height="200px" width="200px">
+    <h3>Small Medium Text Goes Here</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum odit earum laborum labore animi? Maxime culpa corrupti suscipit distinctio! Fugit, ut voluptatum eligendi molestias illo eum veniam aspernatur ipsum asperiores.</p>
+
+    <br>
+    <img src="" alt="" height="200px" width="200px">
+    <h3>Small Medium Text Goes Here</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum odit earum laborum labore animi? Maxime culpa corrupti suscipit distinctio! Fugit, ut voluptatum eligendi molestias illo eum veniam aspernatur ipsum asperiores.</p>
+</div>
+
+</body>
+</html>
+
+
+//css_code
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.icons{
+    font-size: 8px;
+    text-transform: lowercase;
+}
+.icn1{
+    margin-left: 20px;
+    justify-content: space-evenly;
+}
+.icn2{
+    margin-right: 20px;
+    
+}
+html{
+scroll-behavior: smooth;
+}
+navbar1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    height: 40px;
+    color: white;
+}
+navbar2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:aqua;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: yellowgreen;
+    color: black;
+    height: 60px;
+    width: 100%;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: end;
+}
+ul{
+float: left;
+margin-left:150px ;
+margin-right: 90px;
+width: 100%;
+list-style: none;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.menublock{
+    width: 100%;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.list1{
+    background-color: black;
+    text-decoration: white;
+    color: white;
+    text-align: start;
+    margin-top: 30px;
+    height: 30px;
+    margin-bottom: 30px;
+}
+.hori{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.h11{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 40px;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 300px;
+    
+}
+.boxitems{
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 200px;
+    width: 400px;
+}
+.sect{
+    height: 700px;
+}
+.h12 h1{
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 40px;
+}
+.h12 p{
+    margin-left: 100px;
+    margin-right: 600px;
+}
+.h12 img{
+    float: left;
+}
+.contentOnImg{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9948wPNAT_CYEt7P0KJjwrYwp8_vuSX3Lxg&usqp=CAU");
+    height: 600px;
+    width: 100%; 
+}
+.contentOnImg h1{
+    text-size-adjust: 20px;
+}
+.menublock1{
+    height: 90px;
+    width: 600px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-weight: bold;
+}
+ .pos_centre{ 
+    position: absolute;
+    float:left;
+    width: fit-content; 
+    margin-left: 100px;
+    margin-right: 800px;
+   
+ }
+ .hr123{
+    width: 100%;
+ }
